@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Christmas Control",
+  "description": "An interactive 3D web experience using hand tracking to control a magical galaxy of 12,000 particles that morph into a Christmas Tree.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
